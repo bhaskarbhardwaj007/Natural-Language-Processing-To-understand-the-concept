@@ -4,6 +4,7 @@ This project uses base concepts of NLP, this project does not have any model in 
 # No prerequisite required for this project
 <br>
 <br>
+
 # How to use the code ?
 You can either use Anaconda, Pycharm, Jupyter notebook or Google colab to run the code. (I personally prefer Google Colab) 
 
